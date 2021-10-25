@@ -1,1 +1,7 @@
 matlab
+*.exe
+*.txt
+.vscode
+practice
+cpp
+programs
