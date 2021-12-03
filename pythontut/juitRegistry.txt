@@ -1,0 +1,1 @@
+Total number of vowels: 311, Total number of Digits: 40, Total number of Uppercase: 530, Total number of specialC: 313
